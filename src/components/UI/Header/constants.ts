@@ -1,6 +1,6 @@
 export const menu = {
   open: {
-    width: '250px',
+    width: '320px',
     height: '300px',
     top: '-25px',
     right: '-25px',
@@ -23,15 +23,15 @@ export const menu = {
 
 export const links = [
   {
-    url: '/',
+    url: '/about',
     linkTo: "Marg'ilon haqida",
   },
   {
-    url: '/',
+    url: '/shaharhokimligi',
     linkTo: "Shahar hokimligi",
   },
   {
-    url: '/',
+    url: '/shaharhaqida',
     linkTo: "Shahar haqida",
   },
 ];
