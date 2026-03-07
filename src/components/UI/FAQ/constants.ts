@@ -3,8 +3,8 @@ type FAQItem = {
   answer: string;
 };
 
-export const desktopHeaderPhrase = ['Frequently asked', 'questions'];
-export const mobileHeaderPhrase = ['Frequently', 'asked', 'questions'];
+export const desktopHeaderPhrase = ['Hokimiyatga keladigan', 'savollar'];
+export const mobileHeaderPhrase = ['Hokimiyatga ', 'keladigan', 'savollar'];
 export const animate = {
   initial: {
     y: '100%',
