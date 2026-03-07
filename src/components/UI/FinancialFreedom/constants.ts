@@ -32,11 +32,12 @@ export const mobileBriefNotePhrase = [
 export const edges = [
   {
     point: 'Soliq va byudjet',
-    details:
-      'Sanoat va savdo daromadlaridan shahar hokimiyati soliq tushumlari oladi.Shahar byudjeti quyidagi yonalishlarda ishlatiladi:yol va infratuzilma,
-kommunal xizmatlar,
-madaniyat va sport obyektlari,
-ijtimoiy yordam dasturlari.',
+   details: `Sanoat va savdo daromadlaridan shahar hokimiyati soliq tushumlari oladi.
+Shahar byudjeti quyidagi yo'nalishlarda ishlatiladi:
+- yo'l va infratuzilma
+- kommunal xizmatlar
+- madaniyat va sport obyektlari
+- ijtimoiy yordam dasturlari`,
     icon: ic_banknotes,
   },
   {
