@@ -31,8 +31,7 @@ export const faqData: FAQItem[] = [
   {
     question: 'Margilonda ish topish uchun qayerga murojaat qilaman?',
     answer:
-      'Ish izlovchilar Bandlik markazlariga murojaat qilishi mumkin.Shuningdek davlat portali orqali ham vakansiyalar korish mumkin:
-Yagona interaktiv davlat xizmatlari portali',
+      'Ish izlovchilar Bandlik markazlariga murojaat qilishi mumkin.Shuningdek davlat portali orqali ham vakansiyalar korish mumkin.',
   },
 {
     question: 'Kam taminlangan oila sifatida yordam olish mumkinmi?',
