@@ -13,10 +13,10 @@ const linksArr = [
   },
   {
     title: 'Shahar haqida',
-    links: ['Qishloq xojaligi', 'Axoli statistikasi', 'Shahar hokimiyati'],
+    links: ['Qishloq xo\'jaligi', 'Axoli statistikasi', 'Shahar hokimiyati'],
   },
   {
-    title: 'Bog'lanish',
+    title: 'Bog\'lanish',
     links: ['Ish vaqti: 09:00-18:00', 'FAQ'],
   },
 ];
