@@ -19,23 +19,40 @@ export const animate = {
 
 export const faqData: FAQItem[] = [
   {
-    question: 'How do I create an account with RAFT?',
+    question: 'Margilon shahar hokimiyat binosi qayerda?',
     answer:
-      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      'Uzbekistan Respublikasi, Fargona viloyati, Margilon shahar, Mustaqillik kochasi 448-a uy. Hokimlik telefon raqami: (73) 253 30 88',
   },
   {
-    question: 'How does RAFT ensure the security of my financial data?',
+    question: 'Yer uchastkasi yoki uy qurish uchun ruxsatni qanday olsam bo‘ladi?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'Yer ajratish faqat onlayn auksion orqali amalga oshiriladi,fuqarolar ariza topshirish uchun E-auksion platformasidan foydalanishi kerak.',
   },
   {
-    question: 'What types of transactions can I perform with RAFT?',
+    question: 'Margilonda ish topish uchun qayerga murojaat qilaman?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'Ish izlovchilar Bandlik markazlariga murojaat qilishi mumkin.Shuningdek davlat portali orqali ham vakansiyalar korish mumkin:
+Yagona interaktiv davlat xizmatlari portali',
   },
-  {
-    question: 'What benefits does RAFT offer for wealth management?',
+{
+    question: 'Kam taminlangan oila sifatida yordam olish mumkinmi?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'Ariza mahalla fuqarolar yigini orqali topshiriladi.Malumotlar ijtimoiy reyestr orqali tekshiriladi.',
+  },
+{
+    question: 'Biznes boshlash uchun ruxsat qayerdan olinadi?',
+    answer:
+      'Shahar hokimiyati va soliq idorasi orqali.',
+  },
+{
+    question: 'Elektr taminoti uzilib qolsa nima qilish kerak?',
+    answer:
+      'Hududiy elektr tarmoqlari bilan boglanish. Tel',
+  },
+
+  {
+    question: 'Dokon yoki bino qurish uchun qanday ruxsat kerak?”',
+    answer:
+      'Qurilish uchun loyiha tasdiqlanishi kerak.Ruxsatnoma hokimiyat arxitektura bo‘limi orqali olinadi.',
   },
 ];
