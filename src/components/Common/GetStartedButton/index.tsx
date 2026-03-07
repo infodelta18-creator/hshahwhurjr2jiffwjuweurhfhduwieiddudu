@@ -9,7 +9,7 @@ const GetStartedButton = ({ padding }: { padding: string }) => {
       }}
       href="/"
     >
-     Margilan shahar hokimiyati
+     Margilan shahar hokimligi
     </LinkTo>
   );
 };
