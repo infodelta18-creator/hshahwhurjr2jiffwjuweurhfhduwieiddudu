@@ -20,17 +20,18 @@ export const menu = {
     },
   },
 };
+
 export const links = [
   {
     url: '/',
-    linkTo: 'Marg\'ilon haqida',
+    linkTo: "Marg'ilon haqida",
   },
   {
     url: '/',
-    linkTo: 'Shahar hokimligi',
+    linkTo: "Shahar hokimligi",
   },
   {
     url: '/',
-    linkTo: 'Shahar haqida',
+    linkTo: "Shahar haqida",
   },
 ];
