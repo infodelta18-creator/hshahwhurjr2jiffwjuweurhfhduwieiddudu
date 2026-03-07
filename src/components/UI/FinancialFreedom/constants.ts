@@ -4,53 +4,51 @@ import ic_circle_stack from '../../../../public/svgs/ic_circle_stack.svg';
 import ic_arrows_left_right from '../../../../public/svgs/ic_arrows_right_left.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ['Your Financial Freedom,', 'Your Way'];
+export const desktopHeaderPhrase = ['Margilon iqtisodiyoti haqida'];
 export const desktopParagraphPhrase = [
-  'We believe that managing your finances should be effortless and cost-effective.',
-  "That's why we offer you the freedom you deserve.",
+  "Marg'ilon shahrida 18 yilda ilk bor iqtisodiyot 1 yil ichida 23% o'sib Farg'ona viloyat ichida 2-o'rinni egalladi,birgina Marg'ilon shahar yalpi ichki mahsuloti 2025-yilda 200 million AQSH dollarga yetdi."
 ];
 export const desktopBriefNotePhrase = [
-  'Smart investments,',
-  'secure payments, and',
-  'expert guidance, all in',
-  'one place.',
+  'Aqlli investitsiyalar,',
+  'xavfsiz tolovlar va',
+  'ekspert korsatmalari, barchasi',
+  'Margilonda',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ['Your Financial', 'Freedom, Your Way'];
-export const mobileParagraphPhrase = [
-  'We believe that managing your finances should be',
-  "effortless and cost-effective. That's why we offer",
-  ' you the freedom you deserve.',
-];
+export const mobileHeaderPhrase = ['Margilon iqtisodiyoti haqida'];
+export const mobileParagraphPhrase = ["Marg'ilon shahrida 18 yilda ilk bor iqtisodiyot 1 yil ichida 23% o'sib Farg'ona viloyat ichida 2-o'rinni egalladi,birgina Marg'ilon shahar yalpi ichki mahsuloti 2025-yilda 200 million AQSH dollarga yetdi."];
 
 export const mobileBriefNotePhrase = [
-  'Smart',
-  ' investments,',
-  'secure',
-  ' payments,',
-  'and expert',
-  'guidance, all',
-  'in one place.',
+  'Aqlli',
+  ' investitsiyalar,',
+  'xavfsiz',
+  ' tolovlar,',
+  'va mutaxassislar',
+  'hammasi',
+  'Margilonda.',
 ];
 
 export const edges = [
   {
-    point: 'No minimum balance fees',
+    point: 'Soliq va byudjet',
     details:
-      'Say goodbye to minimum balance fees. Your account, your balance—no hidden charges',
+      'Sanoat va savdo daromadlaridan shahar hokimiyati soliq tushumlari oladi.Shahar byudjeti quyidagi yonalishlarda ishlatiladi:yol va infratuzilma,
+kommunal xizmatlar,
+madaniyat va sport obyektlari,
+ijtimoiy yordam dasturlari.',
     icon: ic_banknotes,
   },
   {
-    point: 'No monthly fees',
+    point: 'Qishloq xojaligi va daromad',
     details:
-      'Bank with us without worrying about monthly fees. Keep more of your money where it belongs—in your account',
+      'Margilon atrofidagi dehqonchilik (paxta, sabzavot, meva) shaharga pul oqimini keltiradi.Mahsulotlar bozor va sanoat korxonalariga sotiladi, bu esa iqtisodiy aylanishni oshiradi.',
     icon: ic_circle_stack,
   },
   {
-    point: 'No bank transfer fees',
+    point: 'Turizm va pul aylanmasi',
     details:
-      'Seamlessly transfer funds without the extra cost. Send and receive money with zero bank transfer fees.',
+      'Margilonga keladigan turistlar ipak mato va hunarmandchilik mahsulotlarini sotib oladi, bu shaharga qoshimcha daromad keltiradi.Turizm mavsumida shaharda pul aylanmasi sezilarli darajada oshadi.',
     icon: ic_arrows_left_right,
   },
 ];
