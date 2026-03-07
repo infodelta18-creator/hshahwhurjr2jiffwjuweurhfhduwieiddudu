@@ -8,7 +8,7 @@ export const menu = {
   },
 
   closed: {
-    width: '55px',
+    width: '48px',
     height: '40px',
     top: '0px',
     right: '-4px',
