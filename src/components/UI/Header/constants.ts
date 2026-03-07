@@ -23,14 +23,15 @@ export const menu = {
 export const links = [
   {
     url: '/',
-    linkTo: 'Solutions',
+    linkTo: '
+Marg'ilon haqida',
   },
   {
     url: '/',
-    linkTo: 'Learn',
+    linkTo: 'Shahar hokimligi',
   },
   {
     url: '/',
-    linkTo: 'About',
+    linkTo: 'Shahar haqida',
   },
 ];
