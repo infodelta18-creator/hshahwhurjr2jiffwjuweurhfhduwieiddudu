@@ -18,26 +18,26 @@ export const cardsInfo = [
 export const stats = [
   {
     number: '50+',
-    subtitle: 'cities',
+    subtitle: 'Mahalla',
   },
   {
     number: '50,000+',
-    subtitle: 'transactions',
+    subtitle: 'Tadbirkorlar',
   },
   {
-    number: '3M+',
-    subtitle: 'users',
+    number: '254K+',
+    subtitle: 'aholi',
   },
   {
-    number: '5+',
-    subtitle: 'user ratings',
+    number: '2',
+    subtitle: 'Prezident tashrifi',
   },
 ];
 
 // For desktop
 export const desktopHeaderPhrase = [
-  'Confidently Shape Your',
-  'Financial Future',
+  `Marg'ilon shahar`,
+  `qishloq xo'jaligi`,
 ];
 export const desktopParagraphPhrase = [
   'At RAFT, we empower you to confidently shape your financial future. Our modern',
@@ -46,8 +46,8 @@ export const desktopParagraphPhrase = [
 
 // For mobile
 export const mobileHeaderPhrase = [
-  'Confidently Shape',
-  ' Your Financial Future',
+ `Marg'ilon shahar`,
+  `qishloq xo'jaligi`,
 ];
 export const mobileParagraphPhrase = [
   'At RAFT, we empower you to confidently shape',
