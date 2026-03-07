@@ -50,7 +50,7 @@ export const faqData: FAQItem[] = [
   },
 
   {
-    question: 'Dokon yoki bino qurish uchun qanday ruxsat kerak?”',
+    question: 'Dokon yoki bino qurish uchun qanday ruxsat kerak?',
     answer:
       'Qurilish uchun loyiha tasdiqlanishi kerak.Ruxsatnoma hokimiyat arxitektura bo‘limi orqali olinadi.',
   },
