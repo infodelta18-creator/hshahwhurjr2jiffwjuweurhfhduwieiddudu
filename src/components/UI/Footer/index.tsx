@@ -13,11 +13,11 @@ const linksArr = [
   },
   {
     title: 'Shahar haqida',
-    links: ['Qishloq xo\'jaligi', 'Axoli statistikasi', 'Shahar hokimiyati'],
+    links: ['Qishloq xojaligi', 'Axoli statistikasi', 'Shahar hokimiyati'],
   },
   {
-    title: 'Bog\'lanish',
-    links: ['Ish vaqti: 09:00-18:00', 'FAQ'],
+    title: 'Boglanish',
+    links: ['Ish vaqti', 'FAQ'],
   },
 ];
 
@@ -75,7 +75,7 @@ const Footer = () => {
           </FooterMiddle>
           <FooterBottom>
             <Translator>
-              <h3>O\'zbekcha (Lotin)</h3>
+              <h3>Uzbek (Lotin)</h3>
               <Image src={ic_chevron_down} alt="chevron down" />
             </Translator>
             <CopyRight>
