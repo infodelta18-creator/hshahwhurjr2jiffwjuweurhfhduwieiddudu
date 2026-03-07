@@ -23,8 +23,7 @@ export const menu = {
 export const links = [
   {
     url: '/',
-    linkTo: '
-Marg\'ilon haqida',
+    linkTo: 'Marg\'ilon haqida',
   },
   {
     url: '/',
