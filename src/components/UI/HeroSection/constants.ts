@@ -1,13 +1,12 @@
 // For desktop
-export const phrases = ['Building the future of', 'banking.'];
+export const phrases = [`Marg'ilon shahar hokimi`,'Nisbatxonov Shukurulloxon Xolmatxonovich'];
 export const paragraphPhrases = [
-  "Experience the future of banking with RAFT. We're here to",
-  'empower your financial journey.',
+  '2023-yil 11-avgustdan buyon Marg’ilon shahar hokimi bo’lib ishlab kelmoqda',
 ];
 
 // For mobile
-export const mobilePhrases = ['Building the future', 'of banking'];
+export const mobilePhrases = [`Marg'ilon shahar hokimi`,'Nisbatxonov Shukurulloxon Xolmatxonovich'];
 export const mobileParagraphPhrases = [
-  "Experience the future of banking with RAFT. We're",
-  'here to empower your financial journey.',
+  '2023-yil 11-avgustdan buyon Marg’ilon shahar hokimi bo’lib ishlab kelmoqda',
 ];
+
