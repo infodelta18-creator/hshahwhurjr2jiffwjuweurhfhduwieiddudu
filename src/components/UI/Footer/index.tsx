@@ -75,7 +75,7 @@ const Footer = () => {
           </FooterMiddle>
           <FooterBottom>
             <Translator>
-              <h3>O'zbekcha (Lotin)</h3>
+              <h3>O\'zbekcha (Lotin)</h3>
               <Image src={ic_chevron_down} alt="chevron down" />
             </Translator>
             <CopyRight>
