@@ -24,7 +24,7 @@ export const links = [
   {
     url: '/',
     linkTo: '
-Marg'ilon haqida',
+Marg\'ilon haqida',
   },
   {
     url: '/',
