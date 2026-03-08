@@ -40,11 +40,11 @@ export const BurgerMenu = styled.div`
     div {
       position: absolute;
       background: #fff;
-      width: '250px';
-      height: '300px';
-      border-radius: 25px;
+      width: '240px';
+      height: '290px';
+      border-radius: 24px;
       z-index: 1;
-      top: 57px;
+      top: 60px;
     }
 
     img {
@@ -103,7 +103,7 @@ export const CallToActions = styled.div`
 
   div {
     span {
-      color: var(--white);
+      color: #000;
       font-size: 1rem;
       font-weight: 600;
     }
