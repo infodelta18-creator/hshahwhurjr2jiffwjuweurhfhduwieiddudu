@@ -24,12 +24,12 @@ const Header = () => {
     <Wrapper>
       <Inner>
         <LogoContainer>
-         <Image 
+     <Image 
   src={raft_logo} 
   alt="raft_logo" 
   priority 
   style={{ width: "60px", height: "60px" }} 
-/>} alt="raft_logo" priority />
+/>
           <BurgerMenu onClick={() => setIsOpen(!isOpen)}>
             <motion.div
               variants={menu}
