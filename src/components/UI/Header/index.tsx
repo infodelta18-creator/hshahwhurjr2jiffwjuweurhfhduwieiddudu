@@ -11,7 +11,7 @@ import {
   CallToActions,
   BurgerMenu,
 } from './styles';
-import raft_logo from '../../../../public/svgs/edu.png';
+import raft_logo from '../../../../public/svgs/margilanhokimligi.jpg';
 import ic_bars from '../../../../public/svgs/ic_bars.svg';
 import { GetStartedButton } from '@/components';
 import AnimatedLink from '@/components/Common/AnimatedLink';
