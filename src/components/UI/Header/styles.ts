@@ -40,7 +40,8 @@ export const BurgerMenu = styled.div`
     div {
       position: absolute;
       background: #fff;
-      width: '240px';
+     color: #000;
+ width: '240px';
       height: '290px';
       border-radius: 24px;
       z-index: 1;
