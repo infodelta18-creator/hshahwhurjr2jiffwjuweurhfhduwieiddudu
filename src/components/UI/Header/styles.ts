@@ -21,21 +21,14 @@ export const Inner = styled.div`
 `;
 
 export const LogoContainer = styled.div`
-  display: flex;
-  align-items: center;
-  gap: 10px;
-
-  img {
-    width: 65px;
-    height: 65px;
-    object-fit: contain;
-  }
-
   @media (max-width: 768px) {
+    display: flex;
+    align-items: center;
     justify-content: space-between;
     width: 100%;
   }
 `;
+
 export const BurgerMenu = styled.div`
   display: none;
   position: relative;
@@ -46,7 +39,7 @@ export const BurgerMenu = styled.div`
 
     div {
       position: absolute;
-      
+      background: var(--emerald);
       width: '250px';
       height: '300px';
       border-radius: 25px;
