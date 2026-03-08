@@ -40,21 +40,14 @@ export const BurgerMenu = styled.div`
     div {
       position: absolute;
       background: #fff;
-     
+     background-color: red;
  width: '240px';
       height: '290px';
       border-radius: 24px;
       z-index: 1;
       top: 60px;
     }
-span {
-  display: block;
-  width: 25px;
-  height: 3px;
-  margin: 5px 0;
-  background-color: #000; /* bu chiziqlarning rangi */
-  border-radius: 2px;
-}
+
     img {
       position: relative;
       z-index: 2;
