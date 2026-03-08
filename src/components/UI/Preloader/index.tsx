@@ -21,7 +21,7 @@ const Preloader = ({
   useEffect(() => {
     const tl = gsap.timeline();
     tl.to(imageRef.current, {
-      rotate: '360deg',
+      rotate: '1deg',
       ease: 'back.out(1.7)', // Easing function
       duration: 1.4,
     });
