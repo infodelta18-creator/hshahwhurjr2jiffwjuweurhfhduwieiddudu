@@ -35,26 +35,27 @@ export const LogoContainer = styled.div`
 
 export const BurgerMenu = styled.div`
   display: none;
-  cursor: pointer;
+  position: relative;
 
   @media (max-width: 768px) {
     display: block;
-  }
+    padding: 0.5rem;
 
-  div {
-    position: absolute;
-    top: 60px;
-    right: 50px;
-    width: 250px;
-    height: 300px;
-    border-radius: 20px;
-    background: var(--emerald);
-    z-index: 2;
-  }
+    div {
+      position: absolute;
+      background: var(--emerald);
+      width: '250px';
+      height: '300px';
+      border-radius: 25px;
+      z-index: 1;
+      top: 50px;
+    }
 
-  img {
-    position: relative;
-    z-index: 3;
+    img {
+      position: relative;
+      z-index: 2;
+      object-fit: cover;
+    }
   }
 `;
 
@@ -118,3 +119,4 @@ export const CallToActions = styled.div`
     }
   }
 `;
+
