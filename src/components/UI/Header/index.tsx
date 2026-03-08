@@ -28,7 +28,7 @@ const Header = () => {
   src={raft_logo} 
   alt="raft_logo" 
   priority 
-  style={{ width: "60px", height: "60px" }} 
+  style={{ width: "120px", height: "60px" }} 
 />
           <BurgerMenu onClick={() => setIsOpen(!isOpen)}>
             <motion.div
