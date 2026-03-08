@@ -28,7 +28,7 @@ const Header = () => {
   src={raft_logo} 
   alt="raft_logo" 
   priority 
-  style={{ width: "130px", height: "45px" }} 
+  style={{ width: "125px", height: "40px" }} 
 />
           <BurgerMenu onClick={() => setIsOpen(!isOpen)}>
             <motion.div
@@ -45,7 +45,7 @@ const Header = () => {
           ))}
         </Nav>
         <CallToActions className={isOpen ? 'active' : ''}>
-          <AnimatedLink title="Login" />
+          <AnimatedLink title="Kirish" />
           <GetStartedButton padding="0.5rem 0.75rem" />
         </CallToActions>
       </Inner>
