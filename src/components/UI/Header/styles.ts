@@ -26,8 +26,8 @@ export const LogoContainer = styled.div`
   gap: 10px;
 
   img {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     object-fit: contain;
   }
 
@@ -46,7 +46,7 @@ export const BurgerMenu = styled.div`
 
     div {
       position: absolute;
-      background: var(--emerald);
+      
       width: '250px';
       height: '300px';
       border-radius: 25px;
