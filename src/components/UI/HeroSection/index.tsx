@@ -18,7 +18,7 @@ const HeroSection = () => {
     <Wrapper>
       <Inner>
         <Pill>
-          <span>Marg'ilon 2000 yillik tarixi</span>
+          <span>Marg&#39;ilon 2000-yilda tashkil topgan</span>
           <Image src={ic_chevron_right} alt="chevron-right" />
         </Pill>
         <HeroTextContainer>
