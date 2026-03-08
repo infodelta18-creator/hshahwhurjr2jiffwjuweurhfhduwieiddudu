@@ -39,12 +39,12 @@ export const BurgerMenu = styled.div`
 
     div {
       position: absolute;
-      background: var(--emerald);
+      background: #fff;
       width: '250px';
       height: '300px';
       border-radius: 25px;
       z-index: 1;
-      top: 50px;
+      top: 57px;
     }
 
     img {
