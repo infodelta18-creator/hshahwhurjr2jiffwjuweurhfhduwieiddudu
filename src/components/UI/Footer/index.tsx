@@ -13,11 +13,11 @@ const linksArr = [
   },
   {
     title: 'Shahar haqida',
-    links: ['Qishloq xojaligi', 'Axoli statistikasi', 'Shahar hokimiyati'],
+    links: ['Qishloq xojaligi', 'Axoli statistikasi', 'Shahar hokimiyati', 'Tumanlar'],
   },
   {
-    title: 'Boglanish',
-    links: ['Ish vaqti', 'FAQ'],
+    title: 'Malumot',
+    links: ['Matbuot xizmati: +998712100163', 'Dushanba - Juma, 09:00 - 18:00', 'Saytning eski versiyasi: margilan.uz'],
   },
 ];
 
