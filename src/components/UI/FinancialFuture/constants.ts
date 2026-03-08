@@ -11,7 +11,8 @@ Shaharda har yili Atlas Bayrami festivali o‘tkaziladi. Bu festival milliy mato
   {
     title: `Margʻilon dagi investitsiyalar`,
     details:
-      `So‘nggi yillarda Margʻilon shahri iqtisodiyotini rivojlantirish uchun mahalliy va xorijiy investitsiyalar jalb qilinmoqda. Bu investitsiyalar asosan sanoat, turizm, savdo, qurilish va qishloq xo‘jaligi sohalariga yo‘naltirilgan.`, `Jumladan: Margilan City Mall loyihasi.Shaharda zamonaviy savdo va turar-joy majmuasi qurilmoqda.Loyihaning umumiy qiymati 35 million dollar.Majmuada: savdo markazi, ko‘ngilochar hudud, 11 ta ko‘p qavatli uy, 785 ta xonadon avtoturargoh va bolalar maydonchalari bo‘ladi.`,
+      details: `So‘nggi yillarda Margʻilon shahri iqtisodiyotini rivojlantirish uchun mahalliy va xorijiy investitsiyalar jalb qilinmoqda. Bu investitsiyalar asosan sanoat, turizm, savdo, qurilish va qishloq xo‘jaligi sohalariga yo‘naltirilgan.\n
+Jumladan: Margilan City Mall loyihasi. Shaharda zamonaviy savdo va turar-joy majmuasi qurilmoqda. Loyihaning umumiy qiymati 35 million dollar. Majmuada savdo markazi, ko‘ngilochar hudud, 11 ta ko‘p qavatli uy, 785 ta xonadon, avtoturargoh va bolalar maydonchalari bo‘ladi.`,
     icon: ic_wallet_minus,
   },
 ];
