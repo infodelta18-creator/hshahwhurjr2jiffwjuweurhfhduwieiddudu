@@ -15,7 +15,7 @@ export const Inner = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 90%;
+  width: 10%;
   max-width: 1440px;
   margin: 0 auto;
 `;
