@@ -49,8 +49,5 @@ export const mobileHeaderPhrase = [
   `haqida`,
 ];
 export const mobileParagraphPhrase = [
-  'At RAFT, we empower you to confidently shape',
-  'your financial future. Our modern approach',
-  'simplifies saving and investing, making it easier',
-  'than ever.',
+  `Margʻilon — Oʻzbekistonning Fargʻona vodiysi dagi eng qadimiy shaharlardan biri. U Fargʻona viloyatida joylashgan va tarixan ipakchilik hamda hunarmandchiligi bilan mashhur.`,
 ];
